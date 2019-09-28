@@ -1,0 +1,117 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.wrapper{
+	background-color: #f5f5f5 ;
+	width: 1140px;
+	margin: 30px auto;
+	overflow: hidden;
+}
+
+.header{
+	width: 100%;
+	height: 90px;
+	border: 1px solid #222;
+	padding: 35px;
+	overflow: hidden;
+}
+.logo{
+	width: 140px;
+	height: 40px;
+	border: 1px solid #222;
+	float: left;
+	margin-right: 100px;
+}
+
+.menu{
+	width: 300px;
+	height: 35px;
+	border: 1px solid #222;
+	float: right;
+}
+.con-1{
+	width: 100%;
+	height: 400px;
+	border: 1px solid #222;
+	overflow: hidden;
+}
+.con-top{
+	width: 90%;
+	height: 150px;
+	border: 1px solid #222;
+	margin: 30px auto;
+	padding: 0px;
+	
+}
+.con-bottom{
+	width: 90%;
+	height: 150px;
+	border: 1px solid #222;
+	margin: 30px auto;
+	padding: 20px;
+	
+}
+.con-2{
+	width: 100%;
+	height: 350px;
+	border: 1px solid #222;
+}
+.con-left{
+	width: 30%;
+	height: 200px;
+	border: 1px solid #222;
+	float: left;
+	margin: 40px;
+	padding-right: 30px;
+	
+}
+.con-right{
+	width: 50%;
+	height: 200px;
+	border: 1px solid #222;
+    float: right;
+	margin: 40px;
+	padding-right: 30px;
+}
+
+
+.content-3{
+	width: 100%;
+	height: 100px;
+	border: 1px solid #222;
+}
+.footer{
+	width: 100%;
+	height: 300px;
+	border: 1px solid #222;
+}
+.footer-left{
+	float: left;
+	width: 50%;
+	height: 200px;
+	border: 1px solid #222;
+	margin: 30px;
+	padding: 40px;
+	
+}
+
+.footer-right{
+	float: right;
+	width: 30%;
+	height: 150px;
+	border: 1px solid #222;
+	margin: 40px;
+	padding: 50px;
+}
+
+
+
+	
+	
+
+	
+	
+	
+	
